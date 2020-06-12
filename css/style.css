@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+}
+
+.container{
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container1{
+	padding: 6px 50px;
+}
+
+.heading{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 32px;
+	text-align: center;
+	color: #333;
+	padding: 29px;
+}
+.blue{
+	color: skyblue;
+}
+.red{
+	color: red;
+}
+.green{
+	color: seagreen;
+}
+.yellow{
+	color: purple;
+}
+.img{
+	width: 100%;
+}
+.again head{
+	font-size: 15px;
+	margin: 0;
+}
+.lorem{
+	text-align: justify;
+	font-size: 15px;
+}
+.end{
+	background-color: seagreen;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	padding: 30px;
+}
